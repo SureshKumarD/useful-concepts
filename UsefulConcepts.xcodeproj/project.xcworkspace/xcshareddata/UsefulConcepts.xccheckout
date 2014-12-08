@@ -12,20 +12,24 @@
 	<dict>
 		<key>0D5F340C50066BBEDD94DAD791A7CCCE0D6FA43C</key>
 		<string>github.com:SureshKumarD/iOSobjectiveCassignments.git</string>
+		<key>5604F25C79C28227C27C3D81EC06B6C965F77BD3</key>
+		<string>https://github.com/SureshKumarD/UsefulConcepts.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>UsefulConcepts/UsefulConcepts.xcodeproj</string>
+	<string>UsefulConcepts.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0D5F340C50066BBEDD94DAD791A7CCCE0D6FA43C</key>
 		<string>../../..</string>
+		<key>5604F25C79C28227C27C3D81EC06B6C965F77BD3</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:SureshKumarD/iOSobjectiveCassignments.git</string>
+	<string>https://github.com/SureshKumarD/UsefulConcepts.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0D5F340C50066BBEDD94DAD791A7CCCE0D6FA43C</string>
+	<string>5604F25C79C28227C27C3D81EC06B6C965F77BD3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>0D5F340C50066BBEDD94DAD791A7CCCE0D6FA43C</string>
 			<key>IDESourceControlWCCName</key>
-			<string>myProjects</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5604F25C79C28227C27C3D81EC06B6C965F77BD3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UsefulConcepts</string>
 		</dict>
 	</array>
 </dict>

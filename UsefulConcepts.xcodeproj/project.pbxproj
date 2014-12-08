@@ -14,6 +14,12 @@
 		F9DE7C7E1A357367000F85C6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9DE7C7D1A357367000F85C6 /* Images.xcassets */; };
 		F9DE7C811A357367000F85C6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F9DE7C7F1A357367000F85C6 /* LaunchScreen.xib */; };
 		F9DE7C8D1A357367000F85C6 /* UsefulConceptsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9DE7C8C1A357367000F85C6 /* UsefulConceptsTests.swift */; };
+		F9DE7C971A35AD98000F85C6 /* SampleTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9DE7C961A35AD98000F85C6 /* SampleTableViewController.swift */; };
+		F9DE7C9D1A35AEAF000F85C6 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9DE7C981A35AEAF000F85C6 /* 1.jpg */; };
+		F9DE7C9E1A35AEAF000F85C6 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE7C991A35AEAF000F85C6 /* 2.png */; };
+		F9DE7C9F1A35AEAF000F85C6 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9DE7C9A1A35AEAF000F85C6 /* 3.jpg */; };
+		F9DE7CA01A35AEAF000F85C6 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9DE7C9B1A35AEAF000F85C6 /* 4.jpg */; };
+		F9DE7CA11A35AEAF000F85C6 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9DE7C9C1A35AEAF000F85C6 /* 5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +44,12 @@
 		F9DE7C861A357367000F85C6 /* UsefulConceptsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UsefulConceptsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9DE7C8B1A357367000F85C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9DE7C8C1A357367000F85C6 /* UsefulConceptsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsefulConceptsTests.swift; sourceTree = "<group>"; };
+		F9DE7C961A35AD98000F85C6 /* SampleTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleTableViewController.swift; sourceTree = "<group>"; };
+		F9DE7C981A35AEAF000F85C6 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		F9DE7C991A35AEAF000F85C6 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		F9DE7C9A1A35AEAF000F85C6 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		F9DE7C9B1A35AEAF000F85C6 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		F9DE7C9C1A35AEAF000F85C6 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +94,13 @@
 				F9DE7C731A357366000F85C6 /* AppDelegate.swift */,
 				F9DE7C781A357367000F85C6 /* ViewController.swift */,
 				F9DE7C7A1A357367000F85C6 /* Main.storyboard */,
+				F9DE7C961A35AD98000F85C6 /* SampleTableViewController.swift */,
 				F9DE7C7D1A357367000F85C6 /* Images.xcassets */,
+				F9DE7C981A35AEAF000F85C6 /* 1.jpg */,
+				F9DE7C991A35AEAF000F85C6 /* 2.png */,
+				F9DE7C9A1A35AEAF000F85C6 /* 3.jpg */,
+				F9DE7C9B1A35AEAF000F85C6 /* 4.jpg */,
+				F9DE7C9C1A35AEAF000F85C6 /* 5.jpg */,
 				F9DE7C7F1A357367000F85C6 /* LaunchScreen.xib */,
 				F9DE7C751A357366000F85C6 /* UsefulConcepts.xcdatamodeld */,
 				F9DE7C711A357366000F85C6 /* Supporting Files */,
@@ -196,6 +214,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9DE7C7C1A357367000F85C6 /* Main.storyboard in Resources */,
+				F9DE7CA11A35AEAF000F85C6 /* 5.jpg in Resources */,
+				F9DE7CA01A35AEAF000F85C6 /* 4.jpg in Resources */,
+				F9DE7C9D1A35AEAF000F85C6 /* 1.jpg in Resources */,
+				F9DE7C9E1A35AEAF000F85C6 /* 2.png in Resources */,
+				F9DE7C9F1A35AEAF000F85C6 /* 3.jpg in Resources */,
 				F9DE7C811A357367000F85C6 /* LaunchScreen.xib in Resources */,
 				F9DE7C7E1A357367000F85C6 /* Images.xcassets in Resources */,
 			);
@@ -218,6 +241,7 @@
 				F9DE7C791A357367000F85C6 /* ViewController.swift in Sources */,
 				F9DE7C771A357366000F85C6 /* UsefulConcepts.xcdatamodeld in Sources */,
 				F9DE7C741A357366000F85C6 /* AppDelegate.swift in Sources */,
+				F9DE7C971A35AD98000F85C6 /* SampleTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
